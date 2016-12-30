@@ -15,6 +15,7 @@ namespace Lesson03
             double c = 6.3;
             int i = sizeof(int);
             dynamic d = true;
+            var e = 20;
             d = 20;
             d = false;
             Console.WriteLine("{0}, {1}, {2}, {3}", a, b, c, d);
